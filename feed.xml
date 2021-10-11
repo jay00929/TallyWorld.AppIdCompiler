@@ -17,7 +17,7 @@
     </author>
     <content type="application/octet-stream" src="https://github.com/TallySolutions/TWVSExtension/releases/download/TWVSSTCM-v15.4/TWVSSTCM.vsix" />
     <link rel="icon" href="icons\TWVSExtension.49b6914f-7dcc-4145-b190-83906aa20b31" />
-<Vsix>
+<Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/developer/vsx-syndication-schema/2010">
 <Id>TWVSExtension.49b6914f-7dcc-4145-b190-83906aa20b31</Id><Version>15.4</Version><References />
 <Rating xsi:nil="true" />
 <RatingCount xsi:nil="true" />
